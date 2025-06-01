@@ -1,10 +1,8 @@
-https://www.shopify.com/partners/blog/91010886-3-easy-steps-for-working-with-realistic-data-in-sketch-using-json
-https://www.shopify.com/partners/blog/introducing-buybutton-js-shopifys-new-javascript-library
 https://apps.shopify.com/custom-js
 https://apps.shopify.com/integrations/json
 https://apps.shopify.com/json-ld-for-seo?utm_source=lss-apps&utm_medium=referral&utm_campaign=boldcommerce
 https://apps.shopify.com/seo-json-ld-boost-by-verge
-https://apps.shopify.com/xml-json-order-export
 https://cdn.shopify.com/s/files/1/0019/2592/products/Batman-pjs.jpg?v=1490988403
-https://cdn.shopify.com/s/files/1/0051/4612/products/kajsa_aman_massings_armbband.jpg?v=1400331435
 https://cdn.shopify.com/s/files/1/0104/3192/products/djshadow_reconstructed.jpg?v=1369517096
+https://www.shopify.com/partners/blog/91010886-3-easy-steps-for-working-with-realistic-data-in-sketch-using-json
+https://www.shopify.com/partners/blog/introducing-buybutton-js-shopifys-new-javascript-library
